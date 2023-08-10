@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "title": "Create blacklists",
+    "ph": "Ensure sensitive information never makes its way to your clipboard by excluding certain sources.",
+    "img": "img-one",
+    "class" : "box-one"
+  },
+  {
+    "id": 2,
+    "title": "Plain text snippets",
+    "ph": "Remove unwanted formatting from copied text for a consistent look.",
+    "img": "img img-two"
+  },
+  {
+    "id": 3,
+    "title": "Sneak preview",
+    "ph": "Quick preview of all snippets on your Clipboard for easy access.",
+    "img": "img-three",
+    "class" : "box-two"
+
+  }
+]
